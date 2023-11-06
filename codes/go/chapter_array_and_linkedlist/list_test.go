@@ -1,7 +1,7 @@
 // File: list_test.go
 // Created Time: 2022-12-18
 // Author: msk397 (machangxinq@gmail.com)
-
+// 测试有效
 package chapter_array_and_linkedlist
 
 import (
